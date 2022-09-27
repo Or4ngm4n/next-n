@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Or4nG.M4n" />
         <p className="description">
-          Twitter <code>@interestedz</code>
+          Test <code>Subdomain Take over</code>
         </p>
       </main>
 
