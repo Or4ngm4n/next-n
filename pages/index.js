@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>! Or4ng.m4n !</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Or4nG.M4n" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Twitter <code>@interestedz</code>
         </p>
       </main>
 
